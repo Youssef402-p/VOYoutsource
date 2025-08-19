@@ -1,4 +1,4 @@
-[voy.html](https://github.com/user-attachments/files/21848292/voy.html)
+**[voy.html](https://github.com/user-attachments/files/21848292/voy.html)
 <script type="text/javascript">
         var gk_isXlsx = false;
         var gk_xlsxFileLookup = {};
@@ -61,7 +61,7 @@
   </header>
 
   <!-- Hero Section -->
-  <section id="home" class="bg-gradient-to-r from-blue-700 to-purple-700 text-white py-32">
+  <section id="home" class="bg-gradient-to-r from-blue-700 to-purple-7**00 text-white py-32">
     <div class="container mx-auto px-6 text-center">
       <h2 class="text-5xl font-bold mb-4">Close More Deals with VOY</h2>
       <p class="text-xl mb-6">Professionally Trained and Managed Lead Specialists for Your Business</p>
